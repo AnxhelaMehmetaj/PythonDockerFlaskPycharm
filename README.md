@@ -5,4 +5,4 @@
  This homework assignment is related how to get Pycharm setup with Docker, Flask, MySQL
  
 
-<img src= "query.png">
+<img src= "screenshots/query.PNG">
