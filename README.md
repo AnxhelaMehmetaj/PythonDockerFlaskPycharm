@@ -5,4 +5,4 @@
  This homework assignment is related how to get Pycharm setup with Docker, Flask, MySQL
  
 
- ![ SQL Query ](query.png)
+<img src= "query.png">
