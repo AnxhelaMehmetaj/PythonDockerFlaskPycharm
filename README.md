@@ -7,3 +7,8 @@
 
  This is SQL DATA QUERY
 <img src= "screenshots/query.PNG">
+<img src= "screenshots/cities1.PNG">
+
+ Homework 2
+ 
+<img src="screenshots/cities2.PNG">
