@@ -14,3 +14,8 @@ This homework assignment is related how to get Pycharm setup with Docker, Flask,
   City ADDED
 
  <img src= "screenshots/CityAdded.PNG">
+  
+ City Deleted
+  
+ <img src= "screenshots/CityDeleted.PNG">
+ <img src= "screenshots/Deleted.PNG">
