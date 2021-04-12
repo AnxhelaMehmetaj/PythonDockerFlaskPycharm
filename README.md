@@ -7,7 +7,7 @@ This homework assignment is related how to get Pycharm setup with Docker, Flask,
 
   Homework 3
  
-  HTML Card View 
+   List of records on postman (final part)
  
  <img src= "screenshots/CitiesBrowse.PNG">
  <img src= "screenshots/CityAdded.PNG">
