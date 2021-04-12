@@ -25,6 +25,7 @@ def index():
     return render_template('index.html', title='Home', user=user, cities=result)
 
 
+
 @app.route('/view/<int:city_id>', methods=['GET'])
 def record_view(city_id):
     cursor = mysql.get_db().cursor()
