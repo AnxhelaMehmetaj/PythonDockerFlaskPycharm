@@ -10,4 +10,7 @@ This homework assignment is related how to get Pycharm setup with Docker, Flask,
    List of records on postman (final part)
  
  <img src= "screenshots/CitiesBrowse.PNG">
+  
+  City ADDED
+
  <img src= "screenshots/CityAdded.PNG">
