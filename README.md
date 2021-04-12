@@ -17,3 +17,6 @@ This homework assignment is related how to get Pycharm setup with Docker, Flask,
  
 HTML Card View 
  <img src= "screenshots/view.PNG">
+ <img src= "screenshots/newcity.PNG">
+ <img src= "screenshots/citiesproject.PNG">
+ <img src= "screenshots/addcities.PNG">
